@@ -12,5 +12,5 @@ paketlerini kullanmaya çalıştım.
 * SDWebImage
 
 
-<img src="./assets/appGif.gif" width="600">
+<img src="assets/appGif.gif" width="600">
 
